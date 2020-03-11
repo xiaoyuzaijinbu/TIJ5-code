@@ -4,7 +4,6 @@ package functional;// functional/AnonymousClosure.java
 // Visit http://OnJava8.com for more book information.
 
 import java.util.function.*;
-
 public class AnonymousClosure {
     IntSupplier makeFun(int x) {
         int i = 0;
