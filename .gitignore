@@ -1,0 +1,49 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+**/*/.gitignore
+
+# Mac
+.DS_Store
+
+
+# Maven
+db
+**/logs/*
+**/target
+**/registry
+./mmt-admin-static/static/dist
+registry/*
+logs
+**/target${targetPath}
+*.log
+
+# java
+*.class
+*.war
+*.jar
+
+#springClod
+#./mmt-shop-gateway
+#./mmt-eureka-server
+#./mmt-admin-gateway
