@@ -8,5 +8,31 @@
     <artifactId>TIJ5-code</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <jdk.version>1.8</jdk.version>
+    </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>18.0</version>
+        </dependency>
+
+    </dependencies>
+
+<build>
+    <plugins>
+        <!-- Compiler 插件, 设定JDK版本 -->
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>${jdk.version}</source>
+                <target>${jdk.version}</target>
+                <showWarnings>true</showWarnings>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
 </project>
