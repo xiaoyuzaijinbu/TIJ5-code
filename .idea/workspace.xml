@@ -3,367 +3,41 @@
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/AnonymousClosure$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/AnonymousClosure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Bar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/BiConsumerPermutations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/CC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Callable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/ClassFunctionals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Closure9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/ConsumeFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/CtorReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/CurriedIntAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Curry3Args.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/CurryingAndPartials.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/DBaz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Describe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Description.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Foo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/FourArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/FuncSS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/FunctionComposition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/FunctionVariants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/FunctionWithWrapped.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Functional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/FunctionalAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/FunctionalNoAnn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Go.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/IBaz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/In1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/In2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/IntCall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/LBaz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/LambdaExpressions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Make1Arg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Make2Args.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/MakeNoArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/MakeString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/MethodConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/MethodReferences$Description.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/MethodReferences$Helper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/MethodReferences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Multi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/MultiUnbound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/O.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/PredicateComposition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/ProduceFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/RecursiveFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/RecursiveFibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/RunnableMethodReference$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/RunnableMethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/SharedStorage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Soft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Strategize$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Strategize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/This.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/ThreeArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/TransformFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/TransformX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/TriFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/TriFunctionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/TwoArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/UnboundMethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/Unrelated.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/functional/X.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/ArrayShow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/BasicSupplier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/CollectionMethodDifferences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/ConvertTo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Boolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Byte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Double.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Float.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Long.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Pboolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Pbyte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Pchar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Pdouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Pfloat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Pint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Plong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Pshort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count$Short.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Count.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/CountMap$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/CountMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/CountingIntegerList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Countries$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Countries$FlyweightMap$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Countries$FlyweightMap$EntrySet$Iter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Countries$FlyweightMap$EntrySet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Countries$FlyweightMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Countries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Enums.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/FillMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/HTMLColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/MouseClick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Nap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Null.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/OSExecute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/OSExecuteException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Operations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/ProcessFiles$Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/ProcessFiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Boolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Byte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Double.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Float.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Long.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Pboolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Pbyte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Pchar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Pdouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Pfloat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Pint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Plong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Pshort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$Short.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand$String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Rand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Range.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Repeat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/RmDir$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/RmDir.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Sets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Suppliers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/TimedAbort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Timer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Tuple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Tuple2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Tuple3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Tuple4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/Tuple5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/TypeCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/atunit/AtUnit$TestMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/atunit/AtUnit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/atunit/ClassNameFinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/atunit/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/atunit/TestObjectCleanup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/atunit/TestObjectCreate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/onjava/atunit/TestProperty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/ApplicationFramework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/BoxObservable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/BoxObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/CommandPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Compete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Facade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Implementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Implementation1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Implementation2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/ItemFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MyApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/OCBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Outcome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Paper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/PaperScissorsRock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/PolymorphicFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Proxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/ProxyBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/ProxyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/RandomShapes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Resource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Rock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Scissors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/ShapeFactory1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/ShapeFactory2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/ShapeFactory3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Singleton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Singleton$ResourceHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Singleton$ResourceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/SingletonPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/StateBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/StateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/TemplateMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/GameElementFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/GameEnvironment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/KillAndDismember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/KittiesAndPuzzles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/Kitty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/KungFuGuy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/NastyWeapon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/Obstacle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/abstractfactory/Puzzle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/ProxyAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/WhatIHave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/WhatIHave2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/WhatIHave3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/WhatIHave3$InnerAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/WhatIHave3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/WhatIUse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/WhatIUse2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/adapt/WhatIWant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/chain/Algorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/chain/ChainOfResponsibility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/chain/Fail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/chain/FindMinima.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/chain/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/Aluminum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/AluminumBin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/Cardboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/CardboardBin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/DoubleDispatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/Glass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/GlassBin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/Paper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/PaperBin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/TrashBinSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/TypedBin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/doubledispatch/TypedBinMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/dynatrash/DynaTrash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/dynatrash/TypeMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/dynatrash/TypeMapAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/observer/Bee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/observer/Flower$CloseNotifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/observer/Flower$OpenNotifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/observer/Flower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/observer/Hummingbird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/observer/ObservedFlower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclea/Aluminum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclea/Glass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclea/Paper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclea/RecycleA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclea/Trash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclea/TrashFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recycleb/RecycleB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclec/RecycleC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclec/Tbin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/recyclec/TbinList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/shapes/BadShapeCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/shapes/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/shapes/FactoryMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/shapes/FactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/shapes/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/shapes/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/shapes/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/state/Rinse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/state/Spin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/state/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/state/StateMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/state/StateMachineDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/state/Wash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/state/Washer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/strategy/Bisection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/strategy/FindMinima.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/strategy/FindMinima2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/strategy/LeastSquares.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/strategy/MinimaSolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/strategy/Perturbation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/strategy/StrategyPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/strategy/StrategyPattern2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Aluminum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Cardboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Fillable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/FillableList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Glass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Paper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/ParseTrash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Trash$CannotCreateTrashException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Trash$Info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Trash$TrashClassNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trash/Trash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/Aluminum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/Cardboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/Glass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/Paper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/PriceVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/TrashVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/Visitable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/trashvisitor/WeightVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/Bee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/BeeAndFlowers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/Chrysanthemum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/Flower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/FlowerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/Gladiolus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/Renuculus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/StringVal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/visitor/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/ArrayStreams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Bubble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Bubbles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/CollectionToStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/CreatingOptionals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Duplicator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/FileToWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/FileToWordsBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/FileToWordsRegexp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/FileToWordsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/FlatMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/ForEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Frobnitz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/FunctionMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/FunctionMap2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/FunctionMap3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Generator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/ImperativeRandoms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Informational.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/LastElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Looping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Machine2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/MapCollector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Matcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Matching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Numbered.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/NumericStreamInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/OptionalBasics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/OptionalFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/OptionalFlatMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/OptionalMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Optionals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/OptionalsFromEmptyStreams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Peeking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/RandInts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/RandomGenerators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/RandomPair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/RandomWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Randoms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Ranges.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Reduce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/SelectElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/Signal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/SortedComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/SpecialCollector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/StreamOf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/StreamOfOptionals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/StreamOfRandoms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/StreamOfStreams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streams/TreeSetOfWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/onjava/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/onjava/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/ArrayStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/ArrayStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Bubbles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Bubbles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/CreatingOptionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/CreatingOptionals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Duplicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Duplicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FileToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FileToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FileToWordsBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FileToWordsBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FileToWordsRegexp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FileToWordsRegexp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/ForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FunctionMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FunctionMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FunctionMap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FunctionMap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FunctionMap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FunctionMap3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Looping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Looping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Machine2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Machine2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/MapCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/MapCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/OptionalFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/OptionalFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalFlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/OptionalMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Optionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Optionals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/OptionalsFromEmptyStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalsFromEmptyStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Peeking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Peeking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/RandInts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/RandInts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/RandomWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/RandomWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Ranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Ranges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Signal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Signal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/SortedComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/SortedComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/StreamOfOptionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOfOptionals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/StreamOfRandoms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOfRandoms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/StreamOfStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOfStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/TreeSetOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/TreeSetOfWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -723,7 +397,7 @@
       <recent name="E:\tools\TIJ5-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Randoms">
+  <component name="RunManager" selected="Application.MapCollector">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -818,13 +492,13 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="Closure8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.Closure8" />
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.ForEach" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -832,13 +506,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurryingAndPartials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.CurryingAndPartials" />
+    <configuration name="MapCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.MapCollector" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -846,13 +520,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionComposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.FunctionComposition" />
+    <configuration name="OptionalFlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.OptionalFlatMap" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -860,13 +534,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateComposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functional.PredicateComposition" />
+    <configuration name="OptionalMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.OptionalMap" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -874,8 +548,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Randoms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Randoms" />
+    <configuration name="StreamOfOptionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.StreamOfOptionals" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -1002,19 +676,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Closure8" />
-      <item itemvalue="Application.FunctionComposition" />
-      <item itemvalue="Application.PredicateComposition" />
-      <item itemvalue="Application.CurryingAndPartials" />
-      <item itemvalue="Application.Randoms" />
+      <item itemvalue="Application.OptionalMap" />
+      <item itemvalue="Application.OptionalFlatMap" />
+      <item itemvalue="Application.StreamOfOptionals" />
+      <item itemvalue="Application.ForEach" />
+      <item itemvalue="Application.MapCollector" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Randoms" />
-        <item itemvalue="Application.CurryingAndPartials" />
-        <item itemvalue="Application.PredicateComposition" />
-        <item itemvalue="Application.FunctionComposition" />
-        <item itemvalue="Application.Closure8" />
+        <item itemvalue="Application.MapCollector" />
+        <item itemvalue="Application.ForEach" />
+        <item itemvalue="Application.StreamOfOptionals" />
+        <item itemvalue="Application.OptionalMap" />
+        <item itemvalue="Application.OptionalFlatMap" />
       </list>
     </recent_temporary>
   </component>
@@ -1052,7 +726,8 @@
       <workItem from="1584243306146" duration="606000" />
       <workItem from="1584530119462" duration="642000" />
       <workItem from="1585140034612" duration="60000" />
-      <workItem from="1587631477260" duration="1077000" />
+      <workItem from="1587631477260" duration="2422000" />
+      <workItem from="1587691650413" duration="12880000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -1075,7 +750,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587631800704</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cimmit">
+      <created>1587632876477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587632876477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1094,22 +776,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="cimmit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587632860947">
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1587697350441">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587632860947" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587697350441" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587632874877">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587632874877" />
+    <state width="1237" height="175" key="GridCell.Tab.0.bottom" timestamp="1587717752121">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="175" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587717752121" />
+    <state width="1237" height="175" key="GridCell.Tab.0.center" timestamp="1587717752120">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="175" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587717752120" />
+    <state width="1237" height="175" key="GridCell.Tab.0.left" timestamp="1587717752120">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="175" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587717752120" />
+    <state width="1237" height="175" key="GridCell.Tab.0.right" timestamp="1587717752120">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="175" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587717752120" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1587631635456">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587631635456" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1587631802689">
+    <state x="362" y="82" width="543" height="524" key="StructurePopup" timestamp="1587716884640">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587631802689" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587632652354">
+    <state x="362" y="82" width="543" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1587716884640" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1587632878291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587632652354" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587632878291" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587717696800">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587717696800" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

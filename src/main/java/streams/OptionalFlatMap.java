@@ -2,48 +2,52 @@ package streams;// streams/OptionalFlatMap.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
+
 import java.util.*;
 import java.util.stream.*;
 import java.util.function.*;
 
 class OptionalFlatMap {
-  static String[] elements = { "12", "", "23", "45" };
-  static Stream<String> testStream() {
-    return Arrays.stream(elements);
-  }
-  static void test(String descr,
-    Function<String, Optional<String>> func) {
-    System.out.println(" ---( " + descr + " )---");
-    for(int i = 0; i <= elements.length; i++) {
-      System.out.println(
-        testStream()
-          .skip(i)
-          .findFirst()
-          .flatMap(func));
+    static String[] elements = {"12", "", "23", "45"};
+
+    static Stream<String> testStream() {
+        return Arrays.stream(elements);
     }
-  }
-  public static void main(String[] args) {
 
-    test("Add brackets",
-         s -> Optional.of("[" + s + "]"));
+    static void test(String descr,
+                     Function<String, Optional<String>> func) {
+        System.out.println(" ---( " + descr + " )---");
+        for (int i = 0; i <= elements.length; i++) {
+            System.out.println(
+                    testStream()
+                            .skip(i)
+                            .findFirst()
+                            .flatMap(func));
+        }
+    }
 
-    test("Increment", s -> {
-      try {
-        return Optional.of(
-          Integer.parseInt(s) + 1 + "");
-      } catch(NumberFormatException e) {
-        return Optional.of(s);
-      }
-    });
+    public static void main(String[] args) {
 
-    test("Replace",
-      s -> Optional.of(s.replace("2", "9")));
+        test("Add brackets",
+                s -> Optional.of("[" + s + "]"));
 
-    test("Take last digit",
-      s -> Optional.of(s.length() > 0 ?
-        s.charAt(s.length() - 1) + ""
-        : s));
-  }
+        test("Increment", s -> {
+            try {
+                return Optional.of(
+                        Integer.parseInt(s) + 1 + "");
+            } catch (NumberFormatException e) {
+                return Optional.of(s);
+            }
+        });
+
+        test("Replace",
+                s -> Optional.of(s.replace("2", "9")));
+
+        test("Take last digit",
+                s -> Optional.of(s.length() > 0 ?
+                        s.charAt(s.length() - 1) + ""
+                        : s));
+    }
 }
 /* Output:
  ---( Add brackets )---
