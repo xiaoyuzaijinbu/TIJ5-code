@@ -3,41 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/onjava/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/onjava/Operations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/ArrayStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/ArrayStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Bubbles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Bubbles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/CreatingOptionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/CreatingOptionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Duplicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Duplicator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FileToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FileToWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FileToWordsBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FileToWordsBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FileToWordsRegexp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FileToWordsRegexp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FlatMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/ForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FunctionMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FunctionMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FunctionMap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FunctionMap2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/FunctionMap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/FunctionMap3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Generator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Looping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Looping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Machine2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Machine2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/MapCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/MapCollector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/OptionalFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/OptionalFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalFlatMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/OptionalMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Optionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Optionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/OptionalsFromEmptyStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/OptionalsFromEmptyStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Peeking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Peeking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/RandInts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/RandInts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/RandomWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/RandomWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Ranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Ranges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Signal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Signal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/SortedComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/SortedComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/StreamOfOptionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOfOptionals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/StreamOfRandoms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOfRandoms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/StreamOfStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/StreamOfStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/TreeSetOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/TreeSetOfWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Informational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Informational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/LastElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/LastElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Matching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Matching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Reduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/SelectElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/SelectElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams/SpecialCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/SpecialCollector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -397,7 +368,7 @@
       <recent name="E:\tools\TIJ5-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapCollector">
+  <component name="RunManager" selected="Application.LastElement">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -492,8 +463,8 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.ForEach" />
+    <configuration name="LastElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.LastElement" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -520,8 +491,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalFlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.OptionalFlatMap" />
+    <configuration name="Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Reduce" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -534,8 +505,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.OptionalMap" />
+    <configuration name="SelectElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.SelectElement" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -548,8 +519,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamOfOptionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.StreamOfOptionals" />
+    <configuration name="SpecialCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.SpecialCollector" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -676,19 +647,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.OptionalMap" />
-      <item itemvalue="Application.OptionalFlatMap" />
-      <item itemvalue="Application.StreamOfOptionals" />
-      <item itemvalue="Application.ForEach" />
       <item itemvalue="Application.MapCollector" />
+      <item itemvalue="Application.SpecialCollector" />
+      <item itemvalue="Application.Reduce" />
+      <item itemvalue="Application.SelectElement" />
+      <item itemvalue="Application.LastElement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastElement" />
+        <item itemvalue="Application.SelectElement" />
+        <item itemvalue="Application.Reduce" />
+        <item itemvalue="Application.SpecialCollector" />
         <item itemvalue="Application.MapCollector" />
-        <item itemvalue="Application.ForEach" />
-        <item itemvalue="Application.StreamOfOptionals" />
-        <item itemvalue="Application.OptionalMap" />
-        <item itemvalue="Application.OptionalFlatMap" />
       </list>
     </recent_temporary>
   </component>
@@ -727,7 +698,7 @@
       <workItem from="1584530119462" duration="642000" />
       <workItem from="1585140034612" duration="60000" />
       <workItem from="1587631477260" duration="2422000" />
-      <workItem from="1587691650413" duration="12880000" />
+      <workItem from="1587691650413" duration="14706000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -757,7 +728,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587632876477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cimmit">
+      <created>1587718294978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587718294978</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -780,26 +758,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587697350441" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587632874877">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587718293677">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587632874877" />
-    <state width="1237" height="175" key="GridCell.Tab.0.bottom" timestamp="1587717752121">
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587718293677" />
+    <state width="1237" height="175" key="GridCell.Tab.0.bottom" timestamp="1587719325096">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587717752121" />
-    <state width="1237" height="175" key="GridCell.Tab.0.center" timestamp="1587717752120">
+    <state width="1237" height="175" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587719325096" />
+    <state width="1237" height="175" key="GridCell.Tab.0.center" timestamp="1587719325096">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587717752120" />
-    <state width="1237" height="175" key="GridCell.Tab.0.left" timestamp="1587717752120">
+    <state width="1237" height="175" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587719325096" />
+    <state width="1237" height="175" key="GridCell.Tab.0.left" timestamp="1587719325096">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587717752120" />
-    <state width="1237" height="175" key="GridCell.Tab.0.right" timestamp="1587717752120">
+    <state width="1237" height="175" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587719325096" />
+    <state width="1237" height="175" key="GridCell.Tab.0.right" timestamp="1587719325096">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587717752120" />
+    <state width="1237" height="175" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587719325096" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1587631635456">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -808,14 +786,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="543" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1587716884640" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1587632878291">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1587718297630">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587632878291" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587717696800">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587718297630" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1587783363301">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587717696800" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587783363301" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587719420674">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587719420674" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
