@@ -6,9 +6,11 @@
 // {java typeinfo.toys.ToyTest}
 package typeinfo.toys;
 
-interface HasBatteries {}
+interface HasBatteries extends HasBatteriesFather {}
 interface Waterproof {}
 interface Shoots {}
+
+interface HasBatteriesFather {}
 
 class Toy {
   // Comment out the following no-arg
@@ -17,8 +19,7 @@ class Toy {
   Toy(int i) {}
 }
 
-class FancyToy extends Toy
-implements HasBatteries, Waterproof, Shoots {
+class FancyToy extends Toy implements HasBatteries, Waterproof, Shoots {
   FancyToy() { super(1); }
 }
 
@@ -40,8 +41,10 @@ public class ToyTest {
       System.exit(1);
     }
     printInfo(c);
+
     for(Class face : c.getInterfaces())
       printInfo(face);
+
     Class up = c.getSuperclass();
     Object obj = null;
     try {

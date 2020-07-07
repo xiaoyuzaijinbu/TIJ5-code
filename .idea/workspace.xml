@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/CovariantReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/FieldAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/PolyConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/PrivateOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/PrivateOverride2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/RTTI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/ReferenceCounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Sandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/StaticPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Transmogrify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/music/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/music/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/music/Music2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/music/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/music/Wind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/music3/Music3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/shape/RandomShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/shape/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/PrivateOverride2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/PrivateOverride2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/typeinfo/ClassInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/typeinfo/ClassInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/typeinfo/toys/ToyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/typeinfo/toys/ToyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +25,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -378,7 +358,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -387,7 +367,7 @@
       <recent name="E:\tools\TIJ5-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LastElement">
+  <component name="RunManager" selected="Application.ClassInitialization">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -482,6 +462,20 @@
       <listeners />
       <method />
     </configuration>
+    <configuration name="ClassInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.ClassInitialization" />
+      <module name="TIJ5-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="typeinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LastElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streams.LastElement" />
       <module name="TIJ5-code" />
@@ -496,13 +490,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.MapCollector" />
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.Shapes" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -510,13 +504,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Reduce" />
+    <configuration name="SweetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.SweetShop" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -524,27 +518,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.SelectElement" />
+    <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.toys.ToyTest" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpecialCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.SpecialCollector" />
-      <module name="TIJ5-code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="typeinfo.toys.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -666,19 +646,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.MapCollector" />
-      <item itemvalue="Application.SpecialCollector" />
-      <item itemvalue="Application.Reduce" />
-      <item itemvalue="Application.SelectElement" />
       <item itemvalue="Application.LastElement" />
+      <item itemvalue="Application.Shapes" />
+      <item itemvalue="Application.SweetShop" />
+      <item itemvalue="Application.ToyTest" />
+      <item itemvalue="Application.ClassInitialization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassInitialization" />
+        <item itemvalue="Application.ToyTest" />
+        <item itemvalue="Application.SweetShop" />
+        <item itemvalue="Application.Shapes" />
         <item itemvalue="Application.LastElement" />
-        <item itemvalue="Application.SelectElement" />
-        <item itemvalue="Application.Reduce" />
-        <item itemvalue="Application.SpecialCollector" />
-        <item itemvalue="Application.MapCollector" />
       </list>
     </recent_temporary>
   </component>
@@ -724,7 +704,12 @@
       <workItem from="1587631477260" duration="2422000" />
       <workItem from="1587691650413" duration="14706000" />
       <workItem from="1587783363674" duration="166000" />
-      <workItem from="1593831211015" duration="3500000" />
+      <workItem from="1593831211015" duration="4587000" />
+      <workItem from="1593846487184" duration="786000" />
+      <workItem from="1593858051862" duration="25000" />
+      <workItem from="1594089321501" duration="3460000" />
+      <workItem from="1594102935509" duration="831000" />
+      <workItem from="1594109451434" duration="2092000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -768,7 +753,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587783507611</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="cimmit">
+      <created>1593842357053</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593842357053</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -791,46 +783,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587697350441" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587783506215">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593842355149">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587783506215" />
-    <state width="1237" height="175" key="GridCell.Tab.0.bottom" timestamp="1587719325096">
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1593842355149" />
+    <state width="1237" height="175" key="GridCell.Tab.0.bottom" timestamp="1594109713885">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587719325096" />
-    <state width="1237" height="175" key="GridCell.Tab.0.center" timestamp="1587719325096">
+    <state width="1237" height="175" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594109713885" />
+    <state width="1237" height="175" key="GridCell.Tab.0.center" timestamp="1594109713884">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587719325096" />
-    <state width="1237" height="175" key="GridCell.Tab.0.left" timestamp="1587719325096">
+    <state width="1237" height="175" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594109713884" />
+    <state width="1237" height="175" key="GridCell.Tab.0.left" timestamp="1594109713884">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587719325096" />
-    <state width="1237" height="175" key="GridCell.Tab.0.right" timestamp="1587719325096">
+    <state width="1237" height="175" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594109713884" />
+    <state width="1237" height="175" key="GridCell.Tab.0.right" timestamp="1594109713884">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="175" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587719325096" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1587631635456">
+    <state width="1237" height="175" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594109713884" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1594089789653">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587631635456" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594089789653" />
     <state x="362" y="82" width="543" height="524" key="StructurePopup" timestamp="1587716884640">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="362" y="82" width="543" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1587716884640" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1587783509850">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1593842358835">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587783509850" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1587783363301">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1593842358835" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1594109452861">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587783363301" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587719420674">
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1594109452861" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1594109090425">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587719420674" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1594109090425" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
