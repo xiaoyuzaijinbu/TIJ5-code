@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/AllOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/AutoInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/BitManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Bool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/CastingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/EqualsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/EqualsMethod2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Equivalence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/MathOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Overflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/PassObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Precedence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/RoundingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/ShortCircuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/StringOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/TernaryIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/URShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Exponents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/operators/AllOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/operators/AllOps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -393,7 +375,7 @@
       <recent name="E:\tools\TIJ5-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Underscores">
+  <component name="RunManager" selected="Application.AllOps">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -488,13 +470,13 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="ClassInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="typeinfo.ClassInitialization" />
+    <configuration name="AllOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.AllOps" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="typeinfo.*" />
+          <option name="PATTERN" value="operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,24 +498,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statistics" />
-      <module name="TIJ5-code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="typeinfo.toys.ToyTest" />
+    <configuration name="Overflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Overflow" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="typeinfo.toys.*" />
+          <option name="PATTERN" value="operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statistics" />
+      <module name="TIJ5-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -666,19 +648,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ToyTest" />
-      <item itemvalue="Application.ClassInitialization" />
       <item itemvalue="Application.Statistics" />
       <item itemvalue="Application.Exponents" />
       <item itemvalue="Application.Underscores" />
+      <item itemvalue="Application.Overflow" />
+      <item itemvalue="Application.AllOps" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AllOps" />
+        <item itemvalue="Application.Overflow" />
         <item itemvalue="Application.Underscores" />
         <item itemvalue="Application.Exponents" />
         <item itemvalue="Application.Statistics" />
-        <item itemvalue="Application.ClassInitialization" />
-        <item itemvalue="Application.ToyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -729,7 +711,7 @@
       <workItem from="1594274846480" duration="1206000" />
       <workItem from="1596441139695" duration="7844000" />
       <workItem from="1597731220334" duration="135000" />
-      <workItem from="1609400280383" duration="946000" />
+      <workItem from="1609400280383" duration="2314000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -794,7 +776,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596441325792</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="cimmit">
+      <created>1609404132872</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609404132872</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -814,34 +803,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="cimmit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1609400617135">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1609404131538">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609400617135" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609404131538" />
     <state x="121" y="56" key="DiffContextDialog" timestamp="1609400318580">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="56" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1609400318580" />
-    <state width="1237" height="82" key="GridCell.Tab.0.bottom" timestamp="1609400587735">
+    <state width="1237" height="82" key="GridCell.Tab.0.bottom" timestamp="1609405690067">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="82" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609400587735" />
-    <state width="1237" height="82" key="GridCell.Tab.0.center" timestamp="1609400587734">
+    <state width="1237" height="82" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609405690067" />
+    <state width="1237" height="82" key="GridCell.Tab.0.center" timestamp="1609405690067">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="82" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609400587734" />
-    <state width="1237" height="82" key="GridCell.Tab.0.left" timestamp="1609400587734">
+    <state width="1237" height="82" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609405690067" />
+    <state width="1237" height="82" key="GridCell.Tab.0.left" timestamp="1609405690067">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="82" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609400587734" />
-    <state width="1237" height="82" key="GridCell.Tab.0.right" timestamp="1609400587734">
+    <state width="1237" height="82" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609405690067" />
+    <state width="1237" height="82" key="GridCell.Tab.0.right" timestamp="1609405690067">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="82" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609400587734" />
+    <state width="1237" height="82" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609405690067" />
     <state x="456" y="54" key="RollbackChangesDialog" timestamp="1609400600598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="456" y="54" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1609400600598" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1609404135468">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609404135468" />
     <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609400326646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
