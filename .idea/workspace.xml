@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/operators/Exponents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/operators/AllOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/operators/AllOps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -712,6 +710,7 @@
       <workItem from="1596441139695" duration="7844000" />
       <workItem from="1597731220334" duration="135000" />
       <workItem from="1609400280383" duration="2314000" />
+      <workItem from="1609731110707" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -803,10 +802,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="cimmit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1609404131538">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1609405752023">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609404131538" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609405752023" />
     <state x="121" y="56" key="DiffContextDialog" timestamp="1609400318580">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -831,10 +830,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="456" y="54" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1609400600598" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1609404135468">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1609405755195">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609404135468" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609405755195" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1609731112536">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1609731112536" />
     <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609400326646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
