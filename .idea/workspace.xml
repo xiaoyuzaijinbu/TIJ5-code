@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mindviewinc/simple/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mindviewinc/simple/Vector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIJ5-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TIJ5-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/housekeeping/Burrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/housekeeping/Burrito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/housekeeping/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/housekeeping/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/housekeeping/OverloadingVarargs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/housekeeping/OverloadingVarargs2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,12 +365,13 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/target/classes/com/mindviewinc/simple/List.class" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -373,7 +380,7 @@
       <recent name="E:\tools\TIJ5-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomBounds">
+  <component name="RunManager" selected="Application.BreakAndContinue">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -468,22 +475,8 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="AllOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.AllOps" />
-      <module name="TIJ5-code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="operators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LabeledFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control.LabeledFor" />
+    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.BreakAndContinue" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -496,13 +489,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.Overflow" />
+    <configuration name="Burrito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="housekeeping.Burrito" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operators.*" />
+          <option name="PATTERN" value="housekeeping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -510,13 +503,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomBounds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control.RandomBounds" />
+    <configuration name="EnumOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="housekeeping.EnumOrder" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="control.*" />
+          <option name="PATTERN" value="housekeeping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -524,13 +517,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control.StringSwitch" />
+    <configuration name="OverloadingVarargs2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="housekeeping.OverloadingVarargs2" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="control.*" />
+          <option name="PATTERN" value="housekeeping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleEnumUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="housekeeping.SimpleEnumUse" />
+      <module name="TIJ5-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="housekeeping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -652,19 +659,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Overflow" />
-      <item itemvalue="Application.AllOps" />
-      <item itemvalue="Application.LabeledFor" />
-      <item itemvalue="Application.StringSwitch" />
-      <item itemvalue="Application.RandomBounds" />
+      <item itemvalue="Application.OverloadingVarargs2" />
+      <item itemvalue="Application.SimpleEnumUse" />
+      <item itemvalue="Application.EnumOrder" />
+      <item itemvalue="Application.Burrito" />
+      <item itemvalue="Application.BreakAndContinue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomBounds" />
-        <item itemvalue="Application.StringSwitch" />
-        <item itemvalue="Application.LabeledFor" />
-        <item itemvalue="Application.AllOps" />
-        <item itemvalue="Application.Overflow" />
+        <item itemvalue="Application.BreakAndContinue" />
+        <item itemvalue="Application.Burrito" />
+        <item itemvalue="Application.EnumOrder" />
+        <item itemvalue="Application.SimpleEnumUse" />
+        <item itemvalue="Application.OverloadingVarargs2" />
       </list>
     </recent_temporary>
   </component>
@@ -716,7 +723,10 @@
       <workItem from="1596441139695" duration="7844000" />
       <workItem from="1597731220334" duration="135000" />
       <workItem from="1609400280383" duration="2314000" />
-      <workItem from="1609731110707" duration="2755000" />
+      <workItem from="1609731110707" duration="3704000" />
+      <workItem from="1609819754933" duration="8006000" />
+      <workItem from="1609910758212" duration="7156000" />
+      <workItem from="1610180626456" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -795,7 +805,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609747241396</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="cimmit">
+      <created>1609764395698</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609764395698</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -815,54 +832,66 @@
     <option name="LAST_COMMIT_MESSAGE" value="cimmit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1609747240167">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1610181620158">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609747240167" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610181620158" />
+    <state width="420" height="444" key="DebuggerActiveHint" timestamp="1609914321209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="420" height="444" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1609914321209" />
     <state x="121" y="56" key="DiffContextDialog" timestamp="1609400318580">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="56" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1609400318580" />
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1609747953019">
+    <state width="1237" height="366" key="GridCell.Tab.0.bottom" timestamp="1609922270292">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609747953019" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1609747953019">
+    <state width="1237" height="366" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609922270292" />
+    <state width="1237" height="366" key="GridCell.Tab.0.center" timestamp="1609922270291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609747953019" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1609747953019">
+    <state width="1237" height="366" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609922270291" />
+    <state width="1237" height="366" key="GridCell.Tab.0.left" timestamp="1609922270291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609747953019" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1609747953019">
+    <state width="1237" height="366" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609922270291" />
+    <state width="1237" height="366" key="GridCell.Tab.0.right" timestamp="1609922270292">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609747953019" />
-    <state x="456" y="54" key="RollbackChangesDialog" timestamp="1609400600598">
+    <state width="1237" height="366" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609922270292" />
+    <state x="456" y="54" key="RollbackChangesDialog" timestamp="1609833543060">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="456" y="54" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1609400600598" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1609748135103">
+    <state x="456" y="54" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1609833543060" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1609913758397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609748135103" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1609747243624">
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609913758397" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1609764397975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609747243624" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1609731112536">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609764397975" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609836508136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1609731112536" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1609836508136" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1610181599948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1610181599948" />
     <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609400326646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1609400326646" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1609400517071">
+    <state x="332" y="95" width="617" height="490" key="find.popup" timestamp="1609921359084">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1609400517071" />
+    <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1609921359084" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610181605258">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610181605258" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -880,6 +909,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/control/LabeledFor.java</url>
           <line>12</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://F:/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/ClassLoader.class</url>
+          <line>123</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

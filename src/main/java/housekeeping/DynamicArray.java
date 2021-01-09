@@ -6,6 +6,7 @@ package housekeeping;// housekeeping/DynamicArray.java
 
 public class DynamicArray {
   public static void main(String[] args) {
+    Demotion.main(new String[]{"fiddle", "de", "dum"});
     Other.main(new String[]{ "fiddle", "de", "dum" });
   }
 }
