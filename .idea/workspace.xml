@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mindviewinc/simple/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mindviewinc/simple/Vector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIJ5-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TIJ5-code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/housekeeping/Burrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/housekeeping/Burrito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/housekeeping/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/housekeeping/DynamicArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/housekeeping/OverloadingVarargs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/housekeeping/OverloadingVarargs2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hiding/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiding/Cake.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -374,6 +369,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hiding" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\gitProject\TIJ5-code\src\main\java" />
       <recent name="E:\tools\TIJ5-code\src\main\java" />
@@ -726,7 +724,7 @@
       <workItem from="1609731110707" duration="3704000" />
       <workItem from="1609819754933" duration="8006000" />
       <workItem from="1609910758212" duration="7156000" />
-      <workItem from="1610180626456" duration="605000" />
+      <workItem from="1610180626456" duration="3326000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -812,7 +810,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609764395698</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="cimmit">
+      <created>1610181782084</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610181782084</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -832,10 +837,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="cimmit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1610181620158">
+    <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610183758556">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610181620158" />
+    <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610183758556" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1610182915407">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610182915407" />
     <state width="420" height="444" key="DebuggerActiveHint" timestamp="1609914321209">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -860,18 +869,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="366" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609922270292" />
-    <state x="456" y="54" key="RollbackChangesDialog" timestamp="1609833543060">
+    <state x="456" y="54" key="RollbackChangesDialog" timestamp="1610183790685">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="456" y="54" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1609833543060" />
+    <state x="456" y="54" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610183790685" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1609913758397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609913758397" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1609764397975">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1610181785006">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609764397975" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610181785006" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609836508136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -888,10 +897,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1609921359084" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610181605258">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610184607926">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610181605258" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610184607926" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

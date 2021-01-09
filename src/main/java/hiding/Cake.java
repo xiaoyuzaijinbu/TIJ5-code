@@ -4,7 +4,7 @@ package hiding;// hiding/Cake.java
 // Visit http://OnJava8.com for more book information.
 // Accesses a class in a separate compilation unit
 
-class Cake {
+ class Cake {
   public static void main(String[] args) {
     Pie x = new Pie();
     x.f();
