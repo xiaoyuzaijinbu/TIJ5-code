@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hiding/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiding/Cake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/functional/Strategize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functional/Strategize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hiding/CreatePackageAccessObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiding/CreatePackageAccessObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reuse/Lisa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/Lisa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reuse/SprinklerSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/SprinklerSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -362,7 +365,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/target/classes/com/mindviewinc/simple/List.class" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../litemall" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -378,7 +381,7 @@
       <recent name="E:\tools\TIJ5-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BreakAndContinue">
+  <component name="RunManager" selected="Application.Strategize">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -515,13 +518,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadingVarargs2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="housekeeping.OverloadingVarargs2" />
+    <configuration name="SprinklerSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reuse.SprinklerSystem" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="housekeeping.*" />
+          <option name="PATTERN" value="reuse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -529,13 +532,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleEnumUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="housekeeping.SimpleEnumUse" />
+    <configuration name="Strategize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.Strategize" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="housekeeping.*" />
+          <option name="PATTERN" value="functional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -657,19 +660,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.OverloadingVarargs2" />
-      <item itemvalue="Application.SimpleEnumUse" />
       <item itemvalue="Application.EnumOrder" />
       <item itemvalue="Application.Burrito" />
       <item itemvalue="Application.BreakAndContinue" />
+      <item itemvalue="Application.SprinklerSystem" />
+      <item itemvalue="Application.Strategize" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strategize" />
+        <item itemvalue="Application.SprinklerSystem" />
         <item itemvalue="Application.BreakAndContinue" />
         <item itemvalue="Application.Burrito" />
         <item itemvalue="Application.EnumOrder" />
-        <item itemvalue="Application.SimpleEnumUse" />
-        <item itemvalue="Application.OverloadingVarargs2" />
       </list>
     </recent_temporary>
   </component>
@@ -724,7 +727,10 @@
       <workItem from="1609731110707" duration="3704000" />
       <workItem from="1609819754933" duration="8006000" />
       <workItem from="1609910758212" duration="7156000" />
-      <workItem from="1610180626456" duration="3326000" />
+      <workItem from="1610180626456" duration="4123000" />
+      <workItem from="1610418866817" duration="77000" />
+      <workItem from="1610873850987" duration="2332000" />
+      <workItem from="1610934213222" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -817,7 +823,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610181782084</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="cimmit">
+      <created>1610184643403</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610184643403</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -841,10 +854,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610183758556" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1610182915407">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1610184642170">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610182915407" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610184642170" />
     <state width="420" height="444" key="DebuggerActiveHint" timestamp="1609914321209">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -853,22 +866,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="56" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1609400318580" />
-    <state width="1237" height="366" key="GridCell.Tab.0.bottom" timestamp="1609922270292">
+    <state x="421" y="43" key="FileChooserDialogImpl" timestamp="1610418939528">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="366" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609922270292" />
-    <state width="1237" height="366" key="GridCell.Tab.0.center" timestamp="1609922270291">
+    <state x="421" y="43" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610418939528" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1610879757697">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="366" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609922270291" />
-    <state width="1237" height="366" key="GridCell.Tab.0.left" timestamp="1609922270291">
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610879757697" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1610879757697">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="366" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609922270291" />
-    <state width="1237" height="366" key="GridCell.Tab.0.right" timestamp="1609922270292">
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610879757697" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1610879757697">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="366" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609922270292" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610879757697" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1610879757697">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610879757697" />
+    <state x="288" y="45" key="NewModule_or_Project.wizard" timestamp="1610418926455">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="288" y="45" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1610418926455" />
     <state x="456" y="54" key="RollbackChangesDialog" timestamp="1610183790685">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -877,18 +898,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609913758397" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1610181785006">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1610184645135">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610181785006" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610184645135" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609836508136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1609836508136" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1610181599948">
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1610934219912">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1610181599948" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1610934219912" />
     <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609400326646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -897,18 +918,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1609921359084" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610184607926">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610875493677">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610184607926" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610875493677" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/functional/Strategize.java</url>
-          <line>45</line>
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/functional/UnboundMethodReference.java</url>
           <line>24</line>
