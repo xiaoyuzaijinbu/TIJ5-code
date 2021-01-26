@@ -4,6 +4,8 @@ package reuse;// reuse/FinalArguments.java
 // Visit http://OnJava8.com for more book information.
 // Using "final" with method arguments
 
+import java.util.Vector;
+
 class Gizmo {
     public void spin() {
     }

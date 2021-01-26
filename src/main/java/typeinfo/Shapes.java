@@ -5,7 +5,7 @@ package typeinfo;// typeinfo/Shapes.java
 import java.util.stream.*;
 
 abstract class Shape {
-  void draw() { System.out.println(this + ".draw()"); }
+  void draw() { System.out.println(this + ".draw()");}
   @Override
   public abstract String toString();
 }

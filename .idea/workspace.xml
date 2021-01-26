@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85663445-34b3-4fbc-9bb6-a473505a2321" name="Default" comment="cimmit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/ClassForName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reuse/BlankFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/BlankFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reuse/DerivedSpaceShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/DerivedSpaceShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/music/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/music/Music.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/reuse/FinalArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/FinalArguments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reuse/FinalData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/FinalData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reuse/Hide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/Hide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reuse/Orc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/Orc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reuse/Wind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reuse/Wind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/typeinfo/ClassInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/typeinfo/ClassInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/typeinfo/DynamicSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/typeinfo/DynamicSupplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/typeinfo/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/typeinfo/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Individual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Individual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/typeinfo/toys/GenericToyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/typeinfo/toys/GenericToyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="TIJ5-code" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -384,7 +392,7 @@
       <recent name="E:\tools\TIJ5-code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalArguments">
+  <component name="RunManager" selected="Application.DynamicSupplier">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -479,13 +487,13 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="Cartoon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reuse.Cartoon" />
+    <configuration name="ClassInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.ClassInitialization" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reuse.*" />
+          <option name="PATTERN" value="typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,13 +501,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reuse.FinalArguments" />
+    <configuration name="DynamicSupplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.DynamicSupplier" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reuse.*" />
+          <option name="PATTERN" value="typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -507,13 +515,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reuse.FinalData" />
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.Shapes" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reuse.*" />
+          <option name="PATTERN" value="typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -521,13 +529,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reuse.Hide" />
+    <configuration name="SweetShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.SweetShop" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reuse.*" />
+          <option name="PATTERN" value="typeinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,13 +543,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reuse.Wind" />
+    <configuration name="ToyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeinfo.toys.ToyTest" />
       <module name="TIJ5-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reuse.*" />
+          <option name="PATTERN" value="typeinfo.toys.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -663,19 +671,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Cartoon" />
-      <item itemvalue="Application.Hide" />
-      <item itemvalue="Application.Wind" />
-      <item itemvalue="Application.FinalData" />
-      <item itemvalue="Application.FinalArguments" />
+      <item itemvalue="Application.Shapes" />
+      <item itemvalue="Application.SweetShop" />
+      <item itemvalue="Application.ToyTest" />
+      <item itemvalue="Application.ClassInitialization" />
+      <item itemvalue="Application.DynamicSupplier" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FinalArguments" />
-        <item itemvalue="Application.FinalData" />
-        <item itemvalue="Application.Wind" />
-        <item itemvalue="Application.Hide" />
-        <item itemvalue="Application.Cartoon" />
+        <item itemvalue="Application.DynamicSupplier" />
+        <item itemvalue="Application.ClassInitialization" />
+        <item itemvalue="Application.ToyTest" />
+        <item itemvalue="Application.SweetShop" />
+        <item itemvalue="Application.Shapes" />
       </list>
     </recent_temporary>
   </component>
@@ -735,6 +743,11 @@
       <workItem from="1610873850987" duration="2332000" />
       <workItem from="1610934213222" duration="7658000" />
       <workItem from="1611020501484" duration="12000" />
+      <workItem from="1611029560772" duration="1651000" />
+      <workItem from="1611200443005" duration="1728000" />
+      <workItem from="1611236571453" duration="534000" />
+      <workItem from="1611282937141" duration="937000" />
+      <workItem from="1611546716746" duration="7436000" />
     </task>
     <task id="LOCAL-00001" summary="cimmit">
       <created>1583932403021</created>
@@ -841,7 +854,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610935252725</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="cimmit">
+      <created>1611029581143</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611029581143</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -865,14 +885,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1610939435395" />
+    <state x="265" y="22" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1611546750133">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="22" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1611546750133" />
     <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610183758556">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610183758556" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1610935251301">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1611029579991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610935251301" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1611029579991" />
     <state width="420" height="444" key="DebuggerActiveHint" timestamp="1609914321209">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -885,46 +909,50 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="43" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610418939528" />
-    <state width="1237" height="171" key="GridCell.Tab.0.bottom" timestamp="1610974531199">
+    <state width="1237" height="171" key="GridCell.Tab.0.bottom" timestamp="1611631176276">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="171" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610974531199" />
-    <state width="1237" height="171" key="GridCell.Tab.0.center" timestamp="1610974531199">
+    <state width="1237" height="171" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611631176276" />
+    <state width="1237" height="171" key="GridCell.Tab.0.center" timestamp="1611631176276">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="171" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610974531199" />
-    <state width="1237" height="171" key="GridCell.Tab.0.left" timestamp="1610974531199">
+    <state width="1237" height="171" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611631176276" />
+    <state width="1237" height="171" key="GridCell.Tab.0.left" timestamp="1611631176276">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="171" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610974531199" />
-    <state width="1237" height="171" key="GridCell.Tab.0.right" timestamp="1610974531199">
+    <state width="1237" height="171" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611631176276" />
+    <state width="1237" height="171" key="GridCell.Tab.0.right" timestamp="1611631176276">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="171" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610974531199" />
+    <state width="1237" height="171" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611631176276" />
     <state x="288" y="45" key="NewModule_or_Project.wizard" timestamp="1610418926455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="288" y="45" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1610418926455" />
-    <state x="456" y="54" key="RollbackChangesDialog" timestamp="1610936480329">
+    <state x="456" y="54" key="RollbackChangesDialog" timestamp="1611029829263">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="456" y="54" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610936480329" />
+    <state x="456" y="54" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1611029829263" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1609913758397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609913758397" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1610935255151">
+    <state x="362" y="82" width="543" height="524" key="StructurePopup" timestamp="1611549481135">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610935255151" />
+    <state x="362" y="82" width="543" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1611549481135" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1611029583485">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1611029583485" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609836508136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1609836508136" />
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1611020500917">
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1611283276559">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1611020500917" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1611283276559" />
     <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609400326646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -933,10 +961,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1609921359084" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610974522667">
+    <state x="297" y="151" key="run.anything.popup" timestamp="1611549461381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610974522667" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1611549461381" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1611632324042">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1611632324042" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

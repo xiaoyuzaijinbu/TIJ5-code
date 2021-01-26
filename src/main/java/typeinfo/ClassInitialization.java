@@ -16,7 +16,7 @@ class Initable {
 }
 
 class Initable2 {
-    static  int staticNonFinal = 147;
+    static int staticNonFinal = 147;
 
     static {
         System.out.println("Initializing Initable2");
@@ -44,9 +44,10 @@ public class ClassInitialization {
         System.out.println(Initable.STATIC_FINAL2);
         // Does trigger initialization:
         System.out.println(Initable2.staticNonFinal);
-        Class initable3 = Class.forName("typeinfo.Initable3");
+        Class initable3 = Class.forName("typeinfo.Initable3",true,ClassLoader.getSystemClassLoader());
         System.out.println("After creating Initable3 ref");
         System.out.println(Initable3.staticNonFinal);
+
     }
 }
 /* Output:
